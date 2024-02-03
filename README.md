@@ -21,4 +21,6 @@ Run the scraper script:
 python internshala_scraper.py<br>
 The script will prompt for the internship category and location. Enter the required details.
 
-The scraped data will be stored in an Excel file named internship_data.xlsx.
+The scraped data will be stored in an Excel file named internship_data.xlsx.<br>
+![Screenshot (153)](https://github.com/TanmoyGuria/Internshala-Web-Scrapping/assets/127241879/f843418d-2ede-4583-9a2b-95e9545927d2)
+
