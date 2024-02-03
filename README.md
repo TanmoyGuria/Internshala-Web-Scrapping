@@ -2,20 +2,19 @@
 # Overview
 This repository contains Python scripts to scrape internship data from Internshala using BeautifulSoup and store the extracted information in an Excel file. The purpose is to automate the process of fetching internship details for analysis or archival purposes.
 
-#Prerequisites
+# Prerequisites
 Python 3.x
-BeautifulSoup
-pandas
+BeautifulSoup<br>
+pandas<br>
 Install the required dependencies using the following command:
 
 ## bash
-pip install beautifulsoup4 pandas
-Usage
-Clone the repository:
+pip install beautifulsoup4 pandas<br>
+Usage Clone the repository:
 
 ## bash
-git clone https://github.com/TanmoyGuria/Internshala-Web-Scrapping.git
-cd internshala-scraper
+git clone https://github.com/TanmoyGuria/Internshala-Web-Scrapping.git<br>
+cd internshala-scraper<br>
 Run the scraper script:
 
 ## bash
